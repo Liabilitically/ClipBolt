@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Build/Exe
+build/
+dist/
+*.spec
+
+# Personal Config (CRITICAL)
+config.txt
